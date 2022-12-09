@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CMPT732-frontend-website/static/css/main.0c2e7d15.css",
+    "main.js": "/CMPT732-frontend-website/static/js/main.cf4a950a.js",
+    "static/media/marker.png": "/CMPT732-frontend-website/static/media/marker.c339b4aedb5585ed2b4e.png",
+    "static/media/markers-soft@2x.png": "/CMPT732-frontend-website/static/media/markers-soft@2x.050b2167d387021fb8ba.png",
+    "static/media/markers-soft.png": "/CMPT732-frontend-website/static/media/markers-soft.cdc0e07beba6866bb977.png",
+    "index.html": "/CMPT732-frontend-website/index.html",
+    "main.0c2e7d15.css.map": "/CMPT732-frontend-website/static/css/main.0c2e7d15.css.map",
+    "main.cf4a950a.js.map": "/CMPT732-frontend-website/static/js/main.cf4a950a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c2e7d15.css",
+    "static/js/main.cf4a950a.js"
+  ]
+}
